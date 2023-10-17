@@ -1,11 +1,10 @@
 # 3개 열로 각각의 바이올린 그래프 출력
 
-import csv
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('../data/UR2 BXPC3 raman raw data__24h.csv')
+df = pd.read_csv('../../data/UR2 BXPC3 raman raw data__24h.csv')
 
 y1 = np.array(df['ROI 10 []'])
 yy1 = np.delete(y1,0)

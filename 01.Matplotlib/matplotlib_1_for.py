@@ -3,7 +3,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-file = '../data/UR2 BXPC3 raman raw data__24h.csv'
+file = '../../data/UR2 BXPC3 raman raw data__24h.csv'
 df = pd.read_csv(file)
 
 

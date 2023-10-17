@@ -1,11 +1,9 @@
 # 모든 열의 선 그래프 출력
 
-import csv
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('../data/UR2 BXPC3 raman raw data__24h.csv')
+df = pd.read_csv('../../data/UR2 BXPC3 raman raw data__24h.csv')
 
 df1 = df['ROI 1 []']
 df2 = df['ROI 2 []']

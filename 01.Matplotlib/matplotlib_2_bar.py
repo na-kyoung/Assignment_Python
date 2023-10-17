@@ -1,13 +1,12 @@
 # 1개 열의 막대 그래프 출력
 
-import csv
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('../data/UR2 BXPC3 raman raw data__24h.csv')
+df = pd.read_csv('../../data/UR2 BXPC3 raman raw data__24h.csv')
 
-x=[]
+x = []
 y = np.array(df['ROI 1 []'])
 yy = np.delete(y,0)
 
