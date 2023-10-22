@@ -1,0 +1,946 @@
+Raman peaks (cm−1),Assignment,Vibrational mode,Strength,PMID
+446,Glutathione,,,36239879
+494,L-arginine ,S─S stretching,strong,21747512
+509,Trp,,,36239879
+523,"Lysozymes, proteins, G, T",,,22502575
+535,Cholesterol ester,,weak,20223058
+545,Trp,,,36239879
+548,"Cholesterol, S-S stretching mode",,,36227878
+562,Proline,,,36832007
+563,Proline,,,36832007
+570,"Tryptophane/cytosine, guanine ",,broad,20223058
+589,Amide-VI ,," weak, shoulder",21747512
+603,C-C twist aromatic ring of phenylalanine,,,36227878
+604,C-C twist aromatic ring of phenylalanine,,,36227878
+605,C-C twist aromatic ring of phenylalanine,,,36227878
+606,C-C twist aromatic ring of phenylalanine,,,36227878
+607,C-C twist aromatic ring of phenylalanine,,,36227878
+608,C-C twist aromatic ring of phenylalanine,,,36227878
+609,C-C twist aromatic ring of phenylalanine,,,36227878
+610,C-C twist aromatic ring of phenylalanine,,,36227878
+611,C-C twist aromatic ring of phenylalanine,,,36227878
+612,,C─C─C ring in-plane, very strong,29981226
+612,C-C twist aromatic ring of phenylalanine,,,36227878
+613,C-C twist aromatic ring of phenylalanine,,,36227878
+614,C-C twist aromatic ring of phenylalanine,,,36227878
+615,C-C twist aromatic ring of phenylalanine,,,36227878
+616,C-C twist aromatic ring of phenylalanine,,,36227878
+617,C-C twist aromatic ring of phenylalanine,,,36227878
+618,C-C twist aromatic ring of phenylalanine,,,36227878
+619,C-C twist aromatic ring of phenylalanine,,,36227878
+620,C-C twist aromatic ring of phenylalanine,,,36227878
+621,C–C twist in phenylalanine (protein) ,,weak,20223058
+622,"Protein, Phe, A",,,22502575
+622,"Phenylalanine, Tyrosine","C-C  bending, deformed, swing (Twisted) phenylalanine",,24710050
+622,Phe,,,36239879
+636,"L-Tyrosine, lactose",,,36832007
+638,Tyrosine ,C─S  stretching,very strong,21747512
+638,"L-tyrosine, lactose",C-S twist vibration,,30666105
+642,Tyr,,,36239879
+644,C–C twist in tyrosine,,very weak,20223058
+644,G ring str.,,,30899639
+645,Nucleic acid,dC,,24710050
+653,C–S bond,,,36832007
+661,Glutathione,,,36239879
+669,Nucleic acid,dT,,24710050
+676,CYTc,"stretch  bending  (CCN), Vinyl & Porphyrin ",,23154776
+676,"CCN Stretch, Bending, Vinyl & Porphyrin modes",,,23448574
+679,Glutathione,,,36832007
+684,A,,,30899639
+696,"Met, C",,,22502575
+700,"Cholesterol (C-S trans stretching mode), methionine",,,36227878
+714,Polysaccharides,,,36239879
+721,Nucleic acid,dA,,24710050
+721,"DNA/RNA (adenine), protein","Ring breathing mode, C─S",,34743445
+725,Adenine ,C─H  in-plane deformation,weak,21747512
+725,"Adenine, hypoxanthine, coenzyme A",C-H bending vibration,,30666105
+730,Phosphatidylserine,,,36832007
+731,Phosphatidylserine,,,36832007
+732,Phosphatidylserine,,,36832007
+733,Phosphatidylserine,,,36832007
+734,A ring br.,,,30899639
+734,Phosphatidylserine,,,36832007
+735,"Trp, coenzyme A, A, C, T, G",,,22502575
+735,Phosphatidylserine,,,36832007
+737,"DNA/RNA backbone, protein (tyrosine)","Ring breathing mode, C─S",,34743445
+742,Phospholipid,,,36239879
+744,"DNA/RNA (bases, thymine), protein (tryptophan)",Ring breathing mode,,34743445
+749,"nucleic acids, DNA, tryptophan, and nucleoproteins",,,32531903
+750,"CH2 rock, symmetric breathing of tryptophan",,,23448574
+754,Tryp,"CH2 Rock, Sym. breathing ",,23154776
+757,C-C stretching mode of tryptophan,,,36227878
+758,Tryptophan,symmetric stretch (Indole ring breathing),,24710050
+760,Trp,,,36239879
+761,Sym. ring breathing in tryptophane ,,very weak,20223058
+770,,C─H out of plane bend, strong,29981226
+780,Uracil ring breathing (nucleotide) ,,very weak,20223058
+786,"DNA, RNA",PO2- group symmetric stretch,,24710050
+788,"C ring br., T ring br.",,,30899639
+789,"C, U, T",,,22502575
+810,L-serine,C-C-O stretching vibration,,30666105
+816,CCH deformation aliphatic (collagen) ,,medium,20223058
+818,Collagen ,C─C  stretching,weak,21747512
+820,Structural protein modes of tumors ,,,32508914
+823,Tyrosine,Ring breathing , medium,21747512
+825,"DNA/RNA backbone, protein (tyrosine)","O─P─O stretch, ring breathing",,34743445
+826,Tyrosine,,,32508914
+827,"DNA/RNA backbone, protein (tyrosine)","O─P─O stretch, ring breathing",,34743445
+828,Tyr,,,36239879
+829,Nucleic acid,PO2- asymmetric stretch,,24710050
+829,tyrosine,,,32531903
+830,tyrosine,,,32531903
+831,tyrosine,,,32531903
+832,tyrosine,,,32531903
+833,tyrosine,,,32531903
+834,tyrosine,,,32531903
+835,tyrosine,,,32531903
+836,tyrosine,,,32531903
+837,tyrosine,,,32531903
+838,Amine deformation vibrations ,,,32508914
+838,tyrosine,,,32531903
+839,tyrosine,,,32531903
+840,tyrosine,,,32531903
+841,tyrosine,,,32531903
+841,"Protein (proline, tyrosine)","C─C stretch, ring breathing",,34743445
+842,tyrosine,,,32531903
+843,tyrosine,,,32531903
+844,tyrosine,,,32531903
+845,tyrosine,,,32531903
+846,tyrosine,,,32531903
+847,tyrosine,,,32531903
+848,tyrosine,,,32531903
+849,tyrosine,,,32531903
+852,"Proline, tyrosine",,,32508914
+853,"Ring breathing mode of tyrosine, C–C stretch of proline ring",,,36227878
+853,Tyr,,,36239879
+854,"Ring breathing in tyrosine, CCH deformation ",,strong,20223058
+855,Protein (collagen),C-C Proline stretch,,24710050
+858,stretching mode of the phosphate group,,,32531903
+861,"Tyrosine, collagen",,,32508914
+872,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+873,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+874,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+875,Tryptophan ,,,32508914
+875,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+876,"CC stretch (protein, collagen) ",,medium( shoulder),20223058
+876,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+877,Protein (collagen),C-C Hydroxyproline stretch,,24710050
+877,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+878,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+878,C-C stretching mode of tryptophan,,,36227878
+879,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+880,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+881,Tryptophan,ring  in-plane deformation, medium,21747512
+881,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+882,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+883,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+884,"Pro, Val, Gly, Trp, Glu, Hyd",,,22502575
+884,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+885,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+886,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+887,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+888,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+888,,,,36832007
+889,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+890,Amino galactose,C-O-H scissoring vibration,,30666105
+890,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+890,Glutathione,,,36239879
+891,Saccharide,,,32508914
+891,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+892,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+893,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+894,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+895,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+896,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+897,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+898,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+899,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+900,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+901,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+902,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+903,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+904,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+905,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+906,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+907,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+908,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+909,Tyr,,,22502575
+909,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+910,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+911,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+912,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+913,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+914,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+915,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+916,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+917,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+917,Glutathione,,,36239879
+918,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+919,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+920,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+921,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+922,"C–C stretch (protein, collagen) ",,medium,20223058
+922,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+923,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+924,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+925,"Pro, glucose",,,22502575
+925,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+926,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+927,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+928,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+929,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+930,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+931,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+932,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+932,"Protein (proline, valine, α-helix)",C-C stretch,,34743445
+932,"Protein (proline, valine, α-helix)",C─C stretch,,34743445
+933,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+934,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+935,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+936,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+937,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+938,"C–C skeletal stretch in protein, collagen ",,strong,20223058
+938,Protein (collagen),C-C Proline and valine (a-helix) stretch,,24710050
+938,stretching vibrations for the amino acids proline and valine and polysaccharides,,,32531903
+938,Skeletal str α,,,36239879
+944,"Protein (proline, valine, α-helix)",C─C stretch,,34743445
+948,Single-bond stretching vibrations for the amino acids proline and valine and polysaccharides ,,,32508914
+952,"Protein (proline, valine, α-helix)",C─C stretch,,34743445
+955,CH2 rock,,,36239879
+955,Protein bands; structural protein modes of tumors,,,36832007
+956,Protein bands; structural protein modes of tumors,,,36832007
+957,"Lipid, protein","CH3 (deformed) bending, swing",,24710050
+957,Protein bands; structural protein modes of tumors,,,36832007
+958,"Valine, proline",C-C vibration,,30666105
+958,Protein bands; structural protein modes of tumors,,,36832007
+959,Sym. stretch phosphate,,weak(shoulder),20223058
+973,deoxygenated of cells porphyrin macrocycle,═C─H out of plane deformation C─C Asym. Str. ,,23154776
+975,"""=C-H out-of-plane deformation""",,,23448574
+980,Protein,,,36832007
+1000,Protein (phenylalanine),Symmetric ring breathing,,34743445
+1001,"Phenylalanine, protein",ring breathing stretch,,24710050
+1001,Protein (phenylalanine),Symmetric ring breathing,,34743445
+1001,Protein (phenylalanine),Symmetric ring breathing,,34743445
+1001,Protein,,,36832007
+1002,"Phenylalanine, protein",ring breathing stretch,,24710050
+1002,Phe,,,36239879
+1002,Protein,,,36832007
+1003,Sym. ring breathing of phenylalanine ,,very strong,20223058
+1003,"Phenylalanine, protein",ring breathing stretch,,24710050
+1003,Protein,,,36832007
+1004,Phenylalanine ,C─C  symmetric stretching, medium,21747512
+1004,"Phenylalanine, Collagen IV, I",Symmetric CC aromatic ring breathing ,,23154776
+1004,Symmetric CC aromatic ring breathing,,,23448574
+1004,"Phenylalanine, protein",ring breathing stretch,,24710050
+1004,phenylalanine,,,32531903
+1004,C─C symmetric ring breathing mode of phenylalanine,,,36227878
+1004,Protein,,,36832007
+1005,Protein (phenylalanine),Symmetric ring breathing,,34743445
+1009,"Try, Lys, Phe",,,22502575
+1011,Protein (phenylalanine),Symmetric ring breathing,,34743445
+1014,Phenylalanine,C-H stretching vibration,,30666105
+1024,"2'-deoxyribose, phosphate",,,30899639
+1028,Protein (phenylalanine),C─H stretch,,34743445
+1028,Phe,,,36239879
+1033,C–H in plane bending of phenylalanine ,,medium,20223058
+1033,"Phenylalanine, tryptophan, tyrosine",C-H (Plane bending) aromatic compound,,24710050
+1041,Protein (phenylalanine),C─H stretch,,34743445
+1063,Phe,,,36239879
+1064,C–C skeletal stretch in lipids ,,weak,20223058
+1065,,-C = C = C- stretch,,24710050
+1072,Collagen,,,36832007
+1074,Phospholipids ,C─C  stretching,weak,21747512
+1077,"Lipids, nucleic acids, proteins, carbohydrates",,,22502575
+1083,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1083,"Phospholipids, O-P-O and C-C",,,36239879
+1084,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1085,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1085,phosphodiester groups in nucleic acids,,,32531903
+1086,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1087,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1088,"Protein, phospholipid, glycogen Collagen IV, I","CC stretch, CC skeletal stretch trans, PO2 symmetric ",,23154776
+1088,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1089,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1090,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1090,Symmetric phosphate stretching vibrations,,,36832007
+1091,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1092,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1093,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1094,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1095,"Nucleic acid (DNA, RNA)","O-P-O- symmetric stretch, C-C phospholipid stretch",,24710050
+1098,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1098,phosphate str.,,,30899639
+1099,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1100,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1101,DNA: O–P–O backbone stretch ,,medium,20223058
+1101,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1102,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1103,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1103,Phenylalanine,,,32508914
+1103,Phe,,,36239879
+1104,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1105,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1106,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1107,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1108,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1109,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1110,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1111,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1112,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1113,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1114,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1115,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1116,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1117,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1118,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1119,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1120,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1121,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1122,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1123,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1124,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1125,C–C skeletal stretch in lipids,,weak,20223058
+1125,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1126,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1126,"Phospholipid, lipoproteins, C-C skeletal of acyl backbone in lipid",,,36227878
+1126,"Protein, Phospholipid C-C str",,,36239879
+1127,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1127,"Protein, Lipid","C-N protein stretch, C-C lipid stretch",,24710050
+1127,,C─H in-plane bend, medium,29981226
+1128,Lipids,"C─C stretching, trans ",,23154776
+1128,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1129,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1129,saturated fatty acids,,,32531903
+1130,"CC stretch, CC skeletal stretch trans, PO2 symmetric",,,23448574
+1130,D-mannose,C-N stretching vibration,,30666105
+1131,D-Mannose ,C─C  stretching,strong,21747512
+1151,"Protein, carotenoid",C─N and C─C stretch,,34743445
+1152,"Protein, carotenoid",C─N and C─C stretch,,34743445
+1156,β-carotene,C═C stretch ,,23154776
+1156,CH3 rock,,,23448574
+1157,Carotenoids,Polyene chain,,24710050
+1158,C-C stretching mode of beta-carotene,,,36227878
+1160,β-carotene,,,36239879
+1170,Protein (tyrosine),C─H bend,,34743445
+1171,"Phenylalanine, tyrosine ",,,32508914
+1172,CH3 rock,,,23448574
+1173,"Tyrosine, hemoglobin, Flavin",C─H in-plane bending ,,23154776
+1173,"Phenylalanine, tyrosine (protein)",C-H stretch,,24710050
+1174,"Trp, Phe",,,36239879
+1176,Cytosine/guanine/adenine ,,weak,20223058
+1184,,C─H in-plane bend, medium,29981226
+1188,"C ring str., T ring str.",,,30899639
+1204,"Protein (phenylalanine, tryptophan, tyrosine)",C − C6H5 stretch,,34743445
+1206,Tyrosine,Ring vibration , medium,21747512
+1206,Tyrosine,,,32508914
+1208,CC stretch backbone phenyl ring ,,weak,20223058
+1208,Trp,,,36239879
+1209,"Tryptophan, phenylalanine (protein)",C-C6H5 stretch,,24710050
+1210,Amide III,"C-N stretching vibration, N-H bending vibration",,30666105
+1214,Homo polypeptide,Amide III ,,23154776
+1219,Protein (β-sheet),Amide III,,34743445
+1223,Amide III,,,23448574
+1230,,Amino compound III (β fold),,24710050
+1231,,Amino compound III (β fold),,24710050
+1232,,Amino compound III (β fold),,24710050
+1233,,Amino compound III (β fold),,24710050
+1234,,Amino compound III (β fold),,24710050
+1234,Amide III ,,,32508914
+1234,Amide III,,,36239879
+1235,,Amino compound III (β fold),,24710050
+1235,Protein (β-sheet),Amide III,,34743445
+1235,Amide III,,,36239879
+1236,,Amino compound III (β fold),,24710050
+1236,Amide III,,,36239879
+1237,,Amino compound III (β fold),,24710050
+1237,Amide III,,,36239879
+1238,,Amino compound III (β fold),,24710050
+1238,Protein (β-sheet),Amide III,,34743445
+1238,Amide III,,,36239879
+1239,,Amino compound III (β fold),,24710050
+1239,Amide III,,,36239879
+1240,,Amino compound III (β fold),,24710050
+1240,"C ring str., A ring str.",,,30899639
+1240,Amide III,,,36239879
+1241,Amide III,,,36239879
+1242,Amide III,,,36239879
+1243,Amide III,,,36239879
+1244,Amide III,,,36239879
+1245,,Amino compound III (a-helix),,24710050
+1245,,"Amino compound III (random coil, corner",,24710050
+1245,Amide III,,,36239879
+1246,,Amino compound III (a-helix),,24710050
+1246,,"Amino compound III (random coil, corner",,24710050
+1246,Amide III,,,36239879
+1247,Amide III: β-sheet ,,strong,20223058
+1247,,Amino compound III (a-helix),,24710050
+1247,,"Amino compound III (random coil, corner",,24710050
+1247,Amide III,,,36239879
+1248,,Amino compound III (a-helix),,24710050
+1248,,"Amino compound III (random coil, corner",,24710050
+1248,"Amide III, parallel beta-sheet",,,36227878
+1248,Amide III,,,36239879
+1249,,Amino compound III (a-helix),,24710050
+1249,,"Amino compound III (random coil, corner",,24710050
+1249,"Amide III, parallel beta-sheet",,,36227878
+1249,Amide III,,,36239879
+1250,,Amino compound III (a-helix),,24710050
+1250,,"Amino compound III (random coil, corner",,24710050
+1250,"Amide III, parallel beta-sheet",,,36227878
+1250,Amide III,,,36239879
+1251,,Amino compound III (a-helix),,24710050
+1251,,"Amino compound III (random coil, corner",,24710050
+1251,"Amide III, parallel beta-sheet",,,36227878
+1251,Amide III,,,36239879
+1252,,Amino compound III (a-helix),,24710050
+1252,,"Amino compound III (random coil, corner",,24710050
+1252,"Amide III, parallel beta-sheet",,,36227878
+1252,Amide III,,,36239879
+1253,,Amino compound III (a-helix),,24710050
+1253,,"Amino compound III (random coil, corner",,24710050
+1253,C-O4 aromatic stretching ,,,32508914
+1253,"Amide III, parallel beta-sheet",,,36227878
+1253,Amide III,,,36239879
+1254,,Amino compound III (a-helix),,24710050
+1254,,"Amino compound III (random coil, corner",,24710050
+1254, Protein (β-sheet),Amide III,,34743445
+1254,"Amide III, parallel beta-sheet",,,36227878
+1254,Amide III,,,36239879
+1255,,Amino compound III (a-helix),,24710050
+1255,,"Amino compound III (random coil, corner",,24710050
+1255,"Amide III, parallel beta-sheet",,,36227878
+1255,Amide III,,,36239879
+1256,,Amino compound III (a-helix),,24710050
+1256,,"Amino compound III (random coil, corner",,24710050
+1256,"Amide III, parallel beta-sheet",,,36227878
+1256,Amide III,,,36239879
+1257,,Amino compound III (a-helix),,24710050
+1257,,"Amino compound III (random coil, corner",,24710050
+1257,"Amide III, parallel beta-sheet",,,36227878
+1257,Amide III,,,36239879
+1258,,Amino compound III (a-helix),,24710050
+1258,,"Amino compound III (random coil, corner",,24710050
+1258,"Amide III, parallel beta-sheet",,,36227878
+1258,Amide III,,,36239879
+1259,,Amino compound III (a-helix),,24710050
+1259,,"Amino compound III (random coil, corner",,24710050
+1259,"Amide III, parallel beta-sheet",,,36227878
+1259,Amide III,,,36239879
+1260,,Amino compound III (a-helix),,24710050
+1260,,"Amino compound III (random coil, corner",,24710050
+1260,Amide III (C–N stretch + N–H bend),,,32531903
+1260,"Amide III, parallel beta-sheet",,,36227878
+1260,Amide III,,,36239879
+1261,,Amino compound III (a-helix),,24710050
+1261,,"Amino compound III (random coil, corner",,24710050
+1261,"Amide III, parallel beta-sheet",,,36227878
+1261,Amide III,,,36239879
+1262,,Amino compound III (a-helix),,24710050
+1262,,"Amino compound III (random coil, corner",,24710050
+1262,"Amide III, parallel beta-sheet",,,36227878
+1262,Amide III,,,36239879
+1263,,Amino compound III (a-helix),,24710050
+1263,,"Amino compound III (random coil, corner",,24710050
+1263,"Amide III, parallel beta-sheet",,,36227878
+1263,Amide III,,,36239879
+1264,,Amino compound III (a-helix),,24710050
+1264,,"Amino compound III (random coil, corner",,24710050
+1264,"Amide III, parallel beta-sheet",,,36227878
+1264,Amide III,,,36239879
+1265,,Amino compound III (a-helix),,24710050
+1265,,"Amino compound III (random coil, corner",,24710050
+1265,"Amide III, parallel beta-sheet",,,36227878
+1265,Amide III,,,36239879
+1266,Protein,"C-H stretch, H-N- : bending, deformed, swing (Bending) amino compound III",,24710050
+1266,,Amino compound III (a-helix),,24710050
+1266,,"Amino compound III (random coil, corner",,24710050
+1266,"DNA/RNA (thymine, adenine), protein (α-helix)",Amide III,,34743445
+1266,Amide III,,,36239879
+1267,,Amino compound III (a-helix),,24710050
+1267,,"Amino compound III (random coil, corner",,24710050
+1267,Amide III,,,36239879
+1267,Amide III (collagen assignment),,,36832007
+1268,,Amino compound III (a-helix),,24710050
+1268,,"Amino compound III (random coil, corner",,24710050
+1268,Amide III,,,36239879
+1269,,Amino compound III (a-helix),,24710050
+1269,,"Amino compound III (random coil, corner",,24710050
+1269,Amide III,,,36239879
+1270,,Amino compound III (a-helix),,24710050
+1270,,"Amino compound III (random coil, corner",,24710050
+1270,"C, A",,,30899639
+1270,Amide III,,,36239879
+1271,,Amino compound III (a-helix),,24710050
+1271,,"Amino compound III (random coil, corner",,24710050
+1271,Amide III,,,36239879
+1272,,Amino compound III (a-helix),,24710050
+1272,,"Amino compound III (random coil, corner",,24710050
+1272,Amide III,,,36239879
+1273,deformation=CH amide III ,,weak,20223058
+1273,Amide III,,,36239879
+1274,Amide III,,,36239879
+1275,Amide III,,,36239879
+1276,Amide III,,,36239879
+1277,Amide III,,,36239879
+1278,Amide III,,,36239879
+1279,Amide III,,,36239879
+1280,"Phospholipid, amide III proteins, lipids, T",,,22502575
+1280,Amide III,,,36239879
+1288,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1289,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1290,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1291,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1292,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1292,Cytosine,,,32508914
+1293,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1294,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1295,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1296,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1297,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1297,Lipid,Fatty acid,,34743445
+1298,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1299,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1300,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1300,"Trp, α helix, Phospholipids",,,36239879
+1301,"Collagen IV, I","Amide III,  bending(N─H)-30%, α-helix, stretch (C─N)-40% & CH3  bending",,23154776
+1301,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1301,"Trp, α helix, Phospholipids",,,36239879
+1302,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1302,"Trp, α helix, Phospholipids",,,36239879
+1303,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1303,"Trp, α helix, Phospholipids",,,36239879
+1304,,Lipid CH2 bending and CH2CH3 bending,,24710050
+1304,"Trp, α helix, Phospholipids",,,36239879
+1305,"Trp, α helix, Phospholipids",,,36239879
+1306,"Amide III (N–H), α-helix, C-C Str & C-H bending",,,23448574
+1306,"Trp, α helix, Phospholipids",,,36239879
+1307,"Trp, α helix, Phospholipids",,,36239879
+1308,"Trp, α helix, Phospholipids",,,36239879
+1309,"Trp, α helix, Phospholipids",,,36239879
+1310,"Trp, α helix, Phospholipids",,,36239879
+1311,"Trp, α helix, Phospholipids",,,36239879
+1312,"Trp, α helix, Phospholipids",,,36239879
+1313,,N─H in-plane bend, medium,29981226
+1313,"Trp, α helix, Phospholipids",,,36239879
+1314,"Trp, α helix, Phospholipids",,,36239879
+1315,"Trp, α helix, Phospholipids",,,36239879
+1316,"Trp, α helix, Phospholipids",,,36239879
+1317,"Trp, α helix, Phospholipids",,,36239879
+1318,"Trp, α helix, Phospholipids",,,36239879
+1319,"Trp, α helix, Phospholipids",,,36239879
+1319,Collagen assignment; Amide III,,,36832007
+1320,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1320,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1320,"Trp, α helix, Phospholipids",,,36239879
+1320,Collagen assignment; Amide III,,,36832007
+1321,"CH2 deformation in lipids/adenine/cytosine, amide III (α-helix)",,strong,20223058
+1321,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1321,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1321,"Trp, α helix, Phospholipids",,,36239879
+1321,Collagen assignment; Amide III,,,36832007
+1322,"Collagen, tryptophan",CH3CH2 twisting ," medium,shoulder",21747512
+1322,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1322,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1322,"Trp, α helix, Phospholipids",,,36239879
+1323,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1323,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1323,"Trp, α helix, Phospholipids",,,36239879
+1324,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1324,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1324,Collagen and purine bases of DNA ,,,32508914
+1324,"Trp, α helix, Phospholipids",,,36239879
+1325,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1325,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1325,"Trp, α helix, Phospholipids",,,36239879
+1326,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1326,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1326,"Trp, α helix, Phospholipids",,,36239879
+1327,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1327,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1327,"Trp, α helix, Phospholipids",,,36239879
+1328,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1328,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1328,"Lipids, CH vibration in DNA/RNA",CH2 twist vibration,,30666105
+1328,"Trp, α helix, Phospholipids",,,36239879
+1329,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1329,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1329,"Trp, α helix, Phospholipids",,,36239879
+1330,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1330,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1330,"Trp, α helix, Phospholipids",,,36239879
+1331,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1331,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1331,"Trp, α helix, Phospholipids",,,36239879
+1332,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1332,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1332,"Trp, α helix, Phospholipids",,,36239879
+1333,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1333,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1333,"Trp, α helix, Phospholipids",,,36239879
+1334,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1334,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1334,"Trp, α helix, Phospholipids",,,36239879
+1335,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1335,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1335,"Trp, α helix, Phospholipids",,,36239879
+1336,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1336,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1336,A,,,30899639
+1336,"Trp, α helix, Phospholipids",,,36239879
+1337,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1337,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1337,CH3CH2 wagging vibrations of collagen,,,32531903
+1337,"Trp, α helix, Phospholipids",,,36239879
+1338,"Protein, A and G of DNA/RNA ",CH2 Deformation ,,23154776
+1338,CH2 deformation,,,23448574
+1338,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1338,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1338,"Trp, α helix, Phospholipids",,,36239879
+1339,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1339,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1339,"Trp, α helix, Phospholipids",,,36239879
+1340,Unsaturated fatty acid,"C-H bending, deformed, swing (Plane deformation) ordinary olefin",,24710050
+1340,"Protein, nucleic acid","CH2CH3 stretch and bending, deformed, swing",,24710050
+1340,"Trp, α helix, Phospholipids",,,36239879
+1341,"Trp, α helix, Phospholipids",,,36239879
+1342,Polynucleotide chain (DNA/RNA) ,,strong,20223058
+1342,"Trp, α helix, Phospholipids",,,36239879
+1343,"Trp, α helix, Phospholipids",,,36239879
+1344,"Trp, α helix, Phospholipids",,,36239879
+1345,"Trp, α helix, Phospholipids",,,36239879
+1354,G ring str.,,,30899639
+1355,"Collagen (protein assignment)",,,36832007
+1358,"Trp., mitochondria, CYTc ",CH3─(C═O),,23154776
+1358,"CH3-(C=O), strong than hydrocarbons",,,23448574
+1360,Tryptophan,," medium,broad",21747512
+1360,,C─C aromatic stretching, very strong,29981226
+1369,"Trp, porphyrins, lipids, G, T, protein",,,22502575
+1378,"T, A, G of DNA ",CH3 in-phase deformation ,,23154776
+1378,CH3 in-phase deformation,,,23448574
+1378,"G, A, T",,,30899639
+1402,Phospholipids,C─C  stretching," medium,shoulder",21747512
+1405,Glutathione,,,36239879
+1417,C=C stretching in quinoid ring ,,,32508914
+1421,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1422,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1423,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1424,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1425,CH3 deformation,,shoulder,20223058
+1425,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1426,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1427,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1428,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1428,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1429,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1429,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1430,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1430,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1431,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1431,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1432,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1432,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1433,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1433,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1434,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1434,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1435,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1435,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1436,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1436,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1437,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1437,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1438,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1438,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1439,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1439,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1440,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1440,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1441,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1441,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1442,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1442,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1443,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1443,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1444,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1444,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1445,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1445,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1445,lipids and proteins,,,32531903
+1446,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1446,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1446,"CH2 bending mode of proteins, lipids, and some amino acid",,,36227878
+1447,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1447,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1447,"Collagen, phospholipids",bυ(C-H2 ),,30666105
+1448,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1448,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1448,"Protein, Lipid","CH2 bending, deformed, swing",,24710050
+1448,Collagen (protein assignment),,,36832007
+1449,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1449,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1449,"Phospholipid, C-H scissor in CH2",,,36239879
+1449,Collagen (protein assignment),,,36832007
+1450,CH2 deformation in lipids,,very strong,20223058
+1450,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1450,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1451,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1451,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1452,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1452,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1453,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1453,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1454,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1454,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1455,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1455,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1456,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1456,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1457,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1457,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1458,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1458,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1459,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1459,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1460,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1460,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1461,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1461,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1462,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1462,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1463,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1463,"CH2 bending, (CH)3 out-of-phase deformation",,,23448574
+1464,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1465,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1466,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1467,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1468,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1469,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1470,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1471,"Lipid, protein ","(CN) bending, (CH)3  bending out-of-phase deformation ",,23154776
+1478,"DNA/RNA (adenine, guanine)",Ring breathing mode,,34743445
+1479,Amide II,,,32508914
+1484,"C, A, T",,,30899639
+1500,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1501,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1502,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1503,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1504,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1505,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1506,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1507,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1508,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1509,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1509,,C─C aromatic stretching, very strong,29981226
+1510,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1511,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1512,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1513,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1514,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1515,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1516,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1517,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1517,β-carotene accumulation ,,,32508914
+1518,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1519,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1520,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1521,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1521,"Amide II, shift to 1548",,,23448574
+1522,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1523,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1523,β-carotene,,,36239879
+1524,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1524,C = C stretching mode of beta-carotene,,,36227878
+1525,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1526,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1527,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1527,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1527,Carotenoid,C-C stretch,,24710050
+1528,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1529,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1530,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1531,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1531,"Carotenoid, absent from normal tissues ",,,32508914
+1532,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1533,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1534,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1535,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1536,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1537,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1538,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1539,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1540,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1541,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1542,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1543,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1544,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1545,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1546,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1547,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1548,"Trp, cytochrome c, δ and ν coupled out-of-phase, NADH","Amide II, in plane (N─H) bending: 60%;  (C─N)stretch:40%;",,23154776
+1548,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1548,"Amide II, in plane N-H bending",,,23448574
+1549,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1550,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1550,"C, G",,,30899639
+1551,Tryptophane ,,weak,20223058
+1551,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1551,,-NO2 asymmetric stretch,,24710050
+1552,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1553,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1554,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1555,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1556,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1556,Trp,,,36239879
+1557,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1557,Amide II (N–H bend + C–N stretch),,,32531903
+1558,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1559,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1560,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1560,Tryptophan ,,,32508914
+1561,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1562,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1563,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1564,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1565,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1566,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1566,Amide I (C=O stretch),,,32531903
+1567,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1568,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1569,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1570,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1571,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1572,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1573,DNA/RNA bases ,C─C6H5 stretching,weak,21747512
+1573,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1574,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1574,,N─H in-plane bend, medium,29981226
+1575,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1575,A ring str.,,,30899639
+1576,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1577,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1578,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1579,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1580,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1581,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1582,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1583,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1584,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1584,Acetoacetate,C=C bending vibration,,30666105
+1585,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1585,Unsaturated fatty acid,C=C Lipid stretch,,24710050
+1585,CN2 scissoring and NH2 rock of mitochondria and phosphorylated proteins,,,32531903
+1586,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1587,"Trp, mitochondria, NADH","C─C stretching, C─H bending ",,23154776
+1587,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1587,"Protein, Tyr",,,36239879
+1588,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1589,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1589,"C-C stretching, C-H bending",,,23448574
+1590,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1591,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1592,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1593,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1594,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1595,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1596,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1597,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1598,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1599,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1600,"parallel β-sheet, protein, tryp., carotenoid ","Amide II, Shift to 1548, (C═C) stretch",,23154776
+1603,"Tyr, Phe",,,36239879
+1605,"Phe., tyr.","CO stretching, C═C bending ",,23154776
+1605,"CO stretching, C=C bending",,,23448574
+1605,"Phenylalanine, tyrosine",C=C Aromatic compound stretch,,24710050
+1606,C=C phenylalanine ,,weak,20223058
+1617,Porphyrin and tryptophan,C=C stretch,,24710050
+1620,"Tyr, Trp C=C str",,,36239879
+1634,Amide I,,,32508914
+1636,carboxyl vibration,,,30899639
+1639,protein,Amide I in α-helix,,23154776
+1639,Amide I in α-helix,,,23448574
+1640,Protein,"Amino compounds I, a helix",,24710050
+1641,Protein,"Amino compounds I, a helix",,24710050
+1642,Protein,"Amino compounds I, a helix",,24710050
+1643,Protein,"Amino compounds I, a helix",,24710050
+1644,Protein,"Amino compounds I, a helix",,24710050
+1645,Protein,"Amino compounds I, a helix",,24710050
+1646,Protein,"Amino compounds I, a helix",,24710050
+1647,Protein,"Amino compounds I, a helix",,24710050
+1648,Protein,"Amino compounds I, a helix",,24710050
+1649,Protein,"Amino compounds I, a helix",,24710050
+1650,Protein,"Amino compounds I, a helix",,24710050
+1650,,C─C aromatic stretching , very strong,29981226
+1651,Protein,"Amino compounds I, a helix",,24710050
+1652,Protein,"Amino compounds I, a helix",,24710050
+1653,Protein,"Amino compounds I, a helix",,24710050
+1654,Protein,"Amino compounds I, a helix",,24710050
+1654,"Proteins, Amide I, α helix, Phospholipids",,,36239879
+1655,"Amide I, α-helix ",C═O stretching,strong,21747512
+1655,Protein,"Amino compounds I, a helix",,24710050
+1656,Amide I unordered,,,23448574
+1656,Protein,"Amino compounds I, a helix",,24710050
+1657,Protein,"Amino compounds I, a helix",,24710050
+1658,Protein,"Amino compounds I, a helix",,24710050
+1659,Protein,"Amino compounds I, a helix",,24710050
+1660,Protein,"Amino compounds I, a helix",,24710050
+1660,Amide I,C=C stretching vibration:(β-pleated sheet),,30666105
+1661,Protein,"Amino compounds I, a helix",,24710050
+1662,Protein,"Amino compounds I, a helix",,24710050
+1663,Protein,"Amino compounds I, a helix",,24710050
+1664,Protein,"Amino compounds I, a helix",,24710050
+1665,Amide I: α helix ,,very strong,20223058
+1665,Protein,"Amino compounds I, a helix",,24710050
+1666,Protein,"Amino compounds I, a helix",,24710050
+1666,"Protein (α-helix), lipid (fatty acid), DNA/RNA (thymine)","C═O stretch, Amide I",,34743445
+1667,"Salt environment effect, Unordered or random structure, Collagen IV, I","Amide I, β-sheet, stretch(C═O) 80%",,23154776
+1667,Protein,"Amino compounds I, a helix",,24710050
+1668,Protein,"Amino compounds I, a helix",,24710050
+1668,Structural protein modes of tumors,,,36832007
+1669,Protein,"Amino compounds I, a helix",,24710050
+1670,Protein,"Amino compounds I, a helix",,24710050
+1671,Protein,"Amino compounds I, a helix",,24710050
+1672,Protein,"Amino compounds I, a helix",,24710050
+1673,Protein,"Amino compounds I, a helix",,24710050
+1674,Protein,"Amino compounds I, a helix",,24710050
+1675,Protein,"Amino compounds I, a helix",,24710050
+1675,"C = O stretching mode, amide I, α-helix",,,36227878
+1676,Protein,"Amino compounds I, a helix",,24710050
+1677,Protein,"Amino compounds I, a helix",,24710050
+1678,Protein,"Amino compounds I, a helix",,24710050
+1679,Protein,"Amino compounds I, a helix",,24710050
+1680,Protein,"Amino compounds I, a helix",,24710050
+1697,"Protein (α-helix), lipid (fatty acid), DNA/RNA (thymine)","C═O stretch, amide I",,34743445
+1722,ester group3,,,22502575
+1729,Ester group,,,32508914
+1732,"Lipids, phospholipids ", (C═C) stretch,,23154776
+1745,C=O group of lipids and lipids esters.,,,32531903
+1746,C=O Stretch,,,23448574
+2727,,1378 cm−1 bend overtone ,,23154776
+2727,1378 cm bend overtone,,,23448574
+2807,"Aliphatic -N-CH3, amine",,,23448574
+2848,"C–H bonds of lipids, glycogen, proteins, RNA, and DNA.",,,32531903
+2850,"Poly methylene chain, F",CH2 stretch,,23154776
+2854,CH2 Stretch,,,23448574
+2878,CH2 sym. Stretch,,strong,20223058
+2891,Poly methylene chain,"CH2, FR stretch",,23154776
+2892,"CH2 Stretch, FR Stretch",,,23448574
+2900,CH stretch ,,medium,20223058
+2900,CH3 strong symmetric str.,,,23448574
+2931,Proteins,,,32531903
+2933,"CH3 Stretch, FR Stretch",,,23448574
+2934,P.F.,"CH3, FR stretch",,23154776
+2934,"CH3 Stretch, FR Stretch",,,23448574
+2935,"CH3 Stretch, FR Stretch",,,23448574
+2938,"CH2 asym. and CH3 sym. stretch, CH3 sym. (lipid) ",,very strong,20223058
+2975,CH3 asym. Stretch ,,medium,20223058
+2981,CH3 asym. Stretch,,medium,20223058
+2985,"CH3, medium asymmetric str.",,,23448574
+3009,"C–H bonds of lipids, glycogen, proteins, RNA, and DNA.",,,32531903
+3013,CH3-(C=O),,,23448574
+3060,,CH3─(C═O),,23154776
+3104,,(O─H) water band stretch,,23154776
+3156,,(O─H) water band stretch,,23154776
+3166,O-H Stretch water band,,,23448574
+3227,O-H Stretch water band,,,23448574
+3288,,"O─H, Liquid water",,23154776
+3444,,"O─H, Liquid water ",,23154776
